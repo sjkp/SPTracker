@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="07b41abd-075d-478a-8d64-e0d0f407e611" 
+        solutionId="07b41abd-075d-478a-8d64-e0d0f407e611" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPTracker"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="490f8e03-34a0-477c-a766-dcecf9bfca64" />
+  </features>
+</package>

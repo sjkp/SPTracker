@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Azure.SPTracker", "Azure.SP
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Azure.SPTracker.Receiver", "Azure.SPTracker.Receiver\Azure.SPTracker.Receiver.fsproj", "{025F6708-1638-442D-A40B-5C81D696F023}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPTracker", "SPTracker\SPTracker.csproj", "{D7D60921-6DAF-4D98-9AD9-F00CF5A90141}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{025F6708-1638-442D-A40B-5C81D696F023}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{025F6708-1638-442D-A40B-5C81D696F023}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{025F6708-1638-442D-A40B-5C81D696F023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D60921-6DAF-4D98-9AD9-F00CF5A90141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D60921-6DAF-4D98-9AD9-F00CF5A90141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D60921-6DAF-4D98-9AD9-F00CF5A90141}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D7D60921-6DAF-4D98-9AD9-F00CF5A90141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D60921-6DAF-4D98-9AD9-F00CF5A90141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D60921-6DAF-4D98-9AD9-F00CF5A90141}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
